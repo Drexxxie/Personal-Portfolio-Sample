@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    color: #212121;
 }
 
 body {
@@ -98,6 +99,7 @@ p {
     margin-right: auto;
     width: 50%;
     border-radius: 1rem;
+    padding: 8rem;
 }
 
 h2 {
@@ -123,6 +125,19 @@ h2 {
     padding: 2rem;
     margin-bottom: 3rem;
     margin-right: 2rem;
+}
+
+.one {
+    padding-top: 2rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-bottom: 2rem;
+}
+
+.image1 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .services2 {
@@ -198,10 +213,20 @@ input {
     letter-spacing: normal;
 }
 
-.image {
-    padding: 8rem;
-}
-
 .image1, .image2 {
     border-radius: 1rem;
+}
+
+.logos1, .nav-contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo {
+    width: 15rem;
+}
+
+.contact {
+    padding: 2rem;
 }
