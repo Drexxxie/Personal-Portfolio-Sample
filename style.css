@@ -1,0 +1,96 @@
+* {
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: #f4f8fd;
+}
+
+.head {
+    background-color: rgb(255, 255, 255);
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.name {
+    color: #212121;
+    margin-right: 5rem;
+}
+
+.nav {
+    border: none;
+    background-color: white;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+    letter-spacing: normal;
+    cursor: pointer;
+    color: #212121;
+    padding: 2rem;
+}
+
+.special-nav1 {
+    border: none;
+    background-color: #2270e2;
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+    letter-spacing: normal;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+    font-family: 'Cambri', sans-serif;
+}
+
+h1 {
+    color: #212121;
+    font-size: 5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    line-height: 5.5rem;
+    letter-spacing: normal;
+}
+
+.button {
+    text-align: center;
+    padding: 2rem;
+}
+
+.special-nav2 {
+    border: none;
+    background-color: #2270e2;
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+    letter-spacing: normal;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    
+}
+
+p {
+    color: #212121;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    line-height: 2.25rem;
+    letter-spacing: normal;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 1rem;
+}
