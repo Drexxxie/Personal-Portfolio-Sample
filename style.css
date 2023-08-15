@@ -3,6 +3,10 @@
     color: #212121;
 }
 
+.container {
+    margin: auto;
+}
+
 body {
     background-color: #f4f8fd;
 }
