@@ -63,6 +63,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border-radius: 1rem;
 }
 
 h3 {
@@ -100,6 +101,7 @@ h1 {
 
 .image2 {
     padding: 2rem;
+    border-radius: 1rem;
 }
 
 p {
