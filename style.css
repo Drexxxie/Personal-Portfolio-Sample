@@ -287,12 +287,12 @@ input {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        padding-left: 3rem;
     }
 
     .box1, .box2 {
         width: fit-content;
         height: fit-content;
-        padding: 5rem;
     }
 
     .header1, .header2 {
