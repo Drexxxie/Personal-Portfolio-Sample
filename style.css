@@ -268,6 +268,10 @@ input {
         margin: auto;
         height: auto;
     }
+
+    h1 {
+        font-size: 4rem;
+    }
     
     .section1, .section2 {
         display: flex;
@@ -284,6 +288,10 @@ input {
     .box1, .box2 {
         width: fit-content;
         height: fit-content;
+    }
+
+    .header1, .header2 {
+        font-size: 3rem;
     }
 
     .image2 {
