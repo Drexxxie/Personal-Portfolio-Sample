@@ -304,7 +304,7 @@ input {
         height: 100%;
     }
 
-    p, .lists {
+    p, .lists, .special-nav2 {
         font-size: 0.8rem;
     }
 
