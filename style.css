@@ -272,6 +272,10 @@ input {
     h1 {
         font-size: 4rem;
     }
+
+    .one {
+        font-size: 0.8rem;
+    }
     
     .section1, .section2 {
         display: flex;
