@@ -303,7 +303,7 @@ input {
         height: 100%;
     }
 
-    p {
+    p, .lists {
         font-size: 0.8rem;
     }
 
