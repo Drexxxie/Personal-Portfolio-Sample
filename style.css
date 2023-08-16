@@ -244,6 +244,7 @@ input {
 
     .main {
         height: 2rem;
+        padding: 1rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
