@@ -243,7 +243,7 @@ input {
     }
 
     .main {
-        height: 2rem;
+        height: 3rem;
         padding: 1rem;
         display: flex;
         flex-direction: column;
