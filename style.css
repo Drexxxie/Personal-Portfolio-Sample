@@ -276,6 +276,7 @@ input {
 
     .one {
         font-size: 0.8rem;
+        line-height: 1rem;
     }
     
     .section1, .section2 {
