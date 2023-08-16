@@ -298,7 +298,8 @@ input {
     }
 
     .header1, .header2 {
-        font-size: 3rem;
+        font-size: 2rem;
+        line-height: 2rem;
     }
 
     .image2 {
@@ -308,6 +309,7 @@ input {
 
     p, .lists, .special-nav2 {
         font-size: 0.8rem;
+        line-height: 1rem;
     }
 
     .special-nav2 {
