@@ -68,6 +68,85 @@ h3 {
     letter-spacing: normal;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    padding-left: 4rem;
-    padding-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+h3 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.line {
+    background-color: #2270e2;
+    width: 100px;
+    height: 1px;
+    margin-left: 20px;
+    margin-right: 2rem;
+    margin-top: -6px;
+}
+
+p {
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 2rem;
+}
+
+.email {
+    font-size: 1.2rem;
+    font-weight: 900;
+}
+
+.nav-contact {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.contact {
+    padding: 0.5rem;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+.one {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+footer {
+    background-color: #212121;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo {
+    width: 10%;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.nav-contact1 {
+    margin-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.contact1 {
+    padding: 2rem;
 }
