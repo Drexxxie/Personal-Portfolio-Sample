@@ -86,7 +86,7 @@ h3 {
     margin-top: -6px;
 }
 
-p {
+p, h2 {
     font-size: 1.8rem;
     font-family: 'Poppins', sans-serif;
     padding-left: 2rem;
@@ -191,7 +191,7 @@ footer {
         width: 90px;
     }
 
-    p {
+    p, h2 {
         font-size: 0.8rem;
     }
 }
