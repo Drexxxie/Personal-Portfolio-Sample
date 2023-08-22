@@ -168,6 +168,10 @@ footer {
         padding: 0.5rem;
     }
 
+    .nav {
+        font-size: 0.8rem;
+    }
+
     .name {
         float: left;
         color: black;
