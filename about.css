@@ -168,10 +168,6 @@ footer {
         padding: 0.5rem;
     }
 
-    .nav {
-        font-size: 0.8rem;
-    }
-
     .name {
         float: left;
         color: black;
@@ -181,4 +177,11 @@ footer {
         line-height: 25px;
         border-radius: 1rem;
     }
+
+    .header {
+        height: auto;
+        width: auto;
+        font-size: 1.5rem;
     }
+
+}
