@@ -190,4 +190,8 @@ footer {
     .line {
         width: 90px;
     }
+
+    p {
+        font-size: 0.8rem;
+    }
 }
