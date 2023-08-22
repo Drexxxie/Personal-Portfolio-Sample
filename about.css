@@ -68,12 +68,10 @@ h3 {
     letter-spacing: normal;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    padding-left: 2rem;
     padding-right: 2rem;
 }
 
 h3 {
-    padding-left: 2rem;
     padding-right: 2rem;
 }
 
@@ -81,7 +79,6 @@ h3 {
     background-color: #2270e2;
     width: 100px;
     height: 1px;
-    margin-left: 25px;
     margin-right: 2rem;
     margin-top: -6px;
 }
@@ -89,7 +86,6 @@ h3 {
 p, h2 {
     font-size: 1.8rem;
     font-family: 'Poppins', sans-serif;
-    padding-left: 2rem;
 }
 
 .email {
@@ -98,7 +94,6 @@ p, h2 {
 }
 
 .nav-contact {
-    padding-left: 2rem;
     padding-right: 2rem;
     display: flex;
     flex-direction: row;
@@ -111,7 +106,6 @@ p, h2 {
 img {
     width: 30%;
     height: 30%;
-    padding-left: 2rem;
     padding-bottom: 2rem;
 }
 
@@ -121,7 +115,6 @@ img {
 }
 
 h2 {
-    padding-left: 2rem;
     padding-right: 2rem;
 }
 
@@ -135,12 +128,10 @@ footer {
 .logo {
     width: 10%;
     padding-right: 2rem;
-    padding-left: 2rem;
 }
 
 .nav-contact1 {
     margin-top: 5rem;
-    padding-left: 2rem;
     padding-right: 2rem;
     display: flex;
     flex-direction: row;
@@ -154,7 +145,6 @@ footer {
 @media only screen and (max-width: 850px) {
     .container {
         margin: auto;
-        padding-left: -2rem;
     }
 
     .main, .head {
