@@ -141,6 +141,6 @@ button {
     }
 
     .form {
-        padding: none;
+        padding-left: 0rem;
     }
 }
