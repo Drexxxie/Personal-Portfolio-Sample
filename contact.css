@@ -17,7 +17,6 @@ body {
 
 .head {
     background-color: rgb(255, 255, 255);
-    padding: 0.5rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -42,7 +41,6 @@ h3 {
     letter-spacing: normal;
     cursor: pointer;
     color: #212121;
-    padding: 2rem;
 }
 
 .special-nav1 {
@@ -55,5 +53,56 @@ h3 {
     letter-spacing: normal;
     cursor: pointer;
     border-radius: 0.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-contact {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    padding-right: 1rem;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+
+.form {
+    padding-left: 3rem;
+}
+
+input {
+    width: 90%;
+    height: 3rem;
+    border-radius: 0.8rem;
+}
+
+button {
+    border: none;
+    background-color: #2270e2;
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2rem;
+    letter-spacing: normal;
+    cursor: pointer;
+    border-radius: 0.5rem;
     padding: 2rem;
+}
+
+.note, .form {
+    flex: 50%;
 }
