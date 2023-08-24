@@ -4,6 +4,7 @@
 }
 
 .container {
+    padding: 0.5rem;
     margin: auto;
 }
 
@@ -42,19 +43,6 @@ h3 {
     letter-spacing: normal;
     cursor: pointer;
     color: #212121;
-    padding: 2rem;
-}
-
-.special-nav1 {
-    border: none;
-    background-color: #2270e2;
-    color: white;
-    font-size: 1.4rem;
-    font-family: 'Poppins', sans-serif;
-    line-height: 2rem;
-    letter-spacing: normal;
-    cursor: pointer;
-    border-radius: 0.5rem;
     padding: 2rem;
 }
 
