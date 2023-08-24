@@ -29,6 +29,7 @@ h3 {
 
 .name {
     color: #212121;
+    margin-top: 2rem;
     margin-right: 5rem;
 }
 
@@ -61,7 +62,7 @@ h1 {
 }
 
 p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-family: 'Poppins', sans-serif;
 }
 
