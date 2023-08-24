@@ -133,4 +133,9 @@ button {
         line-height: 25px;
         border-radius: 1rem;
     }
+
+    .body {
+        display: flex;
+        flex-direction: column;
+    }
 }
