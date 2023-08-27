@@ -92,6 +92,10 @@ p {
     width: 50%;
 }
 
+li {
+    list-style: none;
+}
+
 @media only screen and (max-width: 850px) {
     .container {
         margin: auto;
