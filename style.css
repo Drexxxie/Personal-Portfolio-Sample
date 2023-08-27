@@ -285,6 +285,10 @@ input {
         flex-direction: column;
         justify-content: center;
     } 
+
+    .note1, .note2 {
+        padding: 0rem;
+    }
     
     .services1, .services2 {
         display: flex;
