@@ -136,8 +136,8 @@ li {
         font-size: 0.8rem;
     }
 
-    li {
-        padding-left: 0rem;
+    .list, .testimonial, .image {
+        padding: 0rem;
     }
 
     .box {
