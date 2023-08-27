@@ -127,4 +127,10 @@ p {
     .image2 {
         width: 75%;
     }
+
+    .second {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
