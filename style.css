@@ -186,7 +186,8 @@ h2 {
     font-size: 1.5rem;
     font-family: 'Poppins', sans-serif;
     line-height: 2.25rem;
-    letter-spacing: normal;   
+    letter-spacing: normal;
+    list-style: none; 
 }
 
 footer {
