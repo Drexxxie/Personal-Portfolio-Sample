@@ -117,3 +117,10 @@ p {
         line-height: 25px;
         border-radius: 1rem;
     }
+
+    .box {
+        padding: 2rem;
+        margin: auto;
+        width: 100%;
+    }
+}
