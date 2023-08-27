@@ -136,6 +136,10 @@ li {
         font-size: 0.8rem;
     }
 
+    li {
+        padding-left: 0rem;
+    }
+
     .box {
         margin: auto;
         width: 100%;
