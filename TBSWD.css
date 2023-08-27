@@ -123,4 +123,8 @@ p {
         margin: auto;
         width: 100%;
     }
+
+    .image2 {
+        width: 25%;
+    }
 }
