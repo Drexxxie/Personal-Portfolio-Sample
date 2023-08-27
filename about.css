@@ -58,6 +58,14 @@ h3 {
     padding-right: 2rem;
 }
 
+.box {
+    background-color: white;
+    text-align: center;
+    padding: 2rem;
+    margin: auto;
+    width: 50%;
+}
+
 h3 {
     padding-right: 2rem;
 }
@@ -160,6 +168,11 @@ footer {
         height: auto;
         width: auto;
         font-size: 1.5rem;
+    }
+
+    .box {
+        margin: auto;
+        width: 100%;
     }
 
     h3, h2 {
