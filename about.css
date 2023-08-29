@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #f4f8fd;
 }
 
 .main {
@@ -67,16 +67,20 @@ h3 {
     width: 50%;
 }
 
+h1 {
+    padding: 2rem;
+}
+
 h3 {
     padding-right: 2rem;
 }
 
 .line {
     background-color: #2270e2;
-    width: 100px;
+    width: 60px;
     height: 1px;
-    margin-right: 2rem;
-    margin-top: -6px;
+    margin: auto;
+    margin-top: -1k rem;
 }
 
 p, h2 {
@@ -169,6 +173,10 @@ footer {
         height: auto;
         width: auto;
         font-size: 1.5rem;
+    }
+
+    h1 {
+        padding: 2rem;
     }
 
     .box {
