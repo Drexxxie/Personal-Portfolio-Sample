@@ -218,6 +218,10 @@ input {
     border-radius: 1rem;
 }
 
+.image2 {
+    height: 30%;
+}
+
 .logos1, .nav-contact {
     display: flex;
     flex-direction: row;
